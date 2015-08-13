@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=accounts\ colNames
+comment0.target=TableModel(java.util.Vector,\ java.util.Vector)
+comment0.text=\r\n\ Constructor\ which\ populates\ the\ private\ fields.\r\n\ @param\ accounts\ Vector\ of\ Type\ Object\ to\ be\ added\r\n\ @param\ colNames\ Vector\ of\ Type\ String\ to\ be\ added\r\n
+comment1.params=
+comment1.target=int\ getRowCount()
+comment2.params=account
+comment2.target=void\ add(java.lang.Object)
+comment2.text=\r\n\ Adds\ and\ account\ Object\ to\ the\ table\ and\ then\ fires\ a\ data\ changed\ event\r\n\ @param\ account\ The\ Object\ to\ be\ added\ to\ the\ TableModel\r\n
+comment3.params=account
+comment3.target=void\ remove(java.lang.Object)
+comment3.text=\r\n\ Removes\ and\ account\ Object\ to\ the\ table\ and\ then\ fires\ a\ data\ changed\ event\r\n\ @param\ account\ The\ Object\ to\ be\ removed\ to\ the\ TableModel\r\n
+comment4.params=
+comment4.target=int\ getColumnCount()
+comment5.params=rowIndex\ columnIndex
+comment5.target=java.lang.Object\ getValueAt(int,\ int)
+comment6.params=rowIndex\ columnIndex
+comment6.target=boolean\ isCellEditable(int,\ int)
+numComments=7

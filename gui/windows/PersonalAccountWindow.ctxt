@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=showStatusBar
+comment0.target=PersonalAccountWindow(boolean)
+comment0.text=\r\n\ Constructor\ for\ the\ PersonalAccountWindow;\ calls\ the\ super\ class,\r\n\ which\ in\ turn\ sets\ all\ of\ the\ setters\ that\ are\ overridden\ in\ this\ class.\ \r\n\ @author\ Barber,\ Coulby\r\n\ @param\ showStatusBar\ Boolean\ control\ over\ whether\ to\ show\ the\ status\ bar\r\n\ (used\ when\ showing\ all\ accounts\ window,\ so\ a\ master\ status\ bar\ can\ be\ shown)\r\n
+comment1.params=
+comment1.target=void\ setColumnNames()
+comment2.params=
+comment2.target=void\ setTable()
+comment3.params=
+comment3.target=void\ setAccount()
+comment4.params=
+comment4.target=void\ setAccountType()
+comment5.params=
+comment5.target=void\ setStatusBar()
+comment6.params=
+comment6.target=void\ removeCellEdit()
+comment7.params=
+comment7.target=void\ setPopUpMenu()
+numComments=8

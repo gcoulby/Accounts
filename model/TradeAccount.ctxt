@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TradeAccount()
+comment0.text=\r\n\ Empty\ constructor\ for\ PersonalAccount\r\n
+comment1.params=firstName\ surname\ vatNumber\ telNumber
+comment1.target=TradeAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ TradeAccount.\ Instantiates\ class\ and\ initialises\ all\ variables.\r\n\ @param\ firstName\ First\ Name\ as\ a\ String\r\n\ @param\ surname\ Surname\ as\ a\ String\r\n\ @param\ vatNumber\ VAT\ number\ as\ a\ string.\r\n\ @param\ telNumber\ Telephone\ number\ as\ a\ string.\r\n
+comment2.params=accountNo\ firstName\ surname\ vatNumber\ telNumber
+comment2.target=TradeAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ TradeAccount.\ Instantiates\ class\ and\ initialises\ all\ variables.\r\n\ @param\ accountNo\ Account\ Number\ as\ a\ String\r\n\ @param\ firstName\ First\ Name\ as\ a\ String\r\n\ @param\ surname\ Surname\ as\ a\ String\r\n\ @param\ vatNumber\ VAT\ number\ as\ a\ string.\r\n\ @param\ telNumber\ Telephone\ number\ as\ a\ string.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getVatNumber()
+comment3.text=\r\n\ Get\ the\ Vat\ Number\r\n\ @return\ vatNumber\ VAT\ Number\ as\ a\ String\r\n
+comment4.params=vatNumber
+comment4.target=void\ setVatNumber(java.lang.String)
+comment4.text=\r\n\ Set\ the\ VAT\ Number\r\n\ @param\ vatNumber\ VAT\ Number\ as\ a\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTelNumber()
+comment5.text=\r\n\ Get\ the\ Telephone\ Number\r\n\ @return\ telNumber\ Telephone\ Number\ as\ a\ String\r\n
+comment6.params=telNumber
+comment6.target=void\ setTelNumber(java.lang.String)
+comment6.text=\r\n\ Set\ the\ Telephone\ Number\r\n\ @param\ telNumber\ Telephone\ Number\ as\ a\ String\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ generateAccountNumber()
+numComments=9

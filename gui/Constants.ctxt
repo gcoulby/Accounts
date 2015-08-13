@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=javax.swing.JLabel\ label(javax.swing.ImageIcon)
+comment0.text=\r\n\ Creates\ a\ JLabel\ based\ on\ the\ size\ of\ the\ ImageIcon\ that\ is\ added.\r\n\ @param\ image\ The\ ImageIcon\ to\ be\ added\ to\ the\ JLabel\r\n\ @return\ label\ The\ Label\ the\ ImageIcon\ will\ be\ added\ to\r\n
+comment1.params=image\ actionCommand
+comment1.target=javax.swing.JButton\ button(javax.swing.ImageIcon,\ java.lang.String)
+comment1.text=\r\n\ Creates\ a\ JButton\ for\ buttons\ that\ have\ no\ text.\ The\r\n\ size\ is\ determined\ by\ the\ ImageIcon's\ size.\r\n\ @param\ image\ The\ ImageIcon\ to\ be\ added\ to\ the\ Button\r\n\ @param\ actionCommand\ The\ String\ that\ will\ be\ sent\ to\ the\ ActionListener\r\n\ @return\ button\ The\ JButton\ that\ the\ ImageIcon\ will\ be\ added\ to\r\n
+comment2.params=image
+comment2.target=java.awt.Dimension\ getImageSize(javax.swing.ImageIcon)
+comment2.text=\r\n\ Returns\ the\ size\ of\ and\ ImageIcon\ as\ a\ dimension(width,height)\r\n\ @param\ image\ The\ ImageIcon\ in\ which\ to\ the\ dimensions\ from\r\n\ @return\ Dimension\ returned\ from\ the\ getIconWidth\ and\ getIconHeight\ methods\ \r\n
+comment3.params=label\ image
+comment3.target=void\ setLabelSize(javax.swing.JLabel,\ javax.swing.ImageIcon)
+comment3.text=\r\n\ Sets\ the\ size\ of\ a\ label\ based\ on\ the\ dimensions\ of\ the\ ImageIcon\r\n\ @param\ label\ The\ Label\ in\ which\ to\ manipulate\r\n\ @param\ image\ The\ ImageIcon\ to\ get\ Dimension\ from\r\n
+numComments=4

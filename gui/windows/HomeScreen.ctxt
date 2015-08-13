@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Initialises\ the\ HomeScreen\ frame,\ sets\ colors\ builds\ the\ gridLayout\ panel\r\n\ to\ be\ added\ to\ the\ flowLayout\ panel\ and\ sets\ the\ listener\ to\ the\ search\r\n\ button.\r\n
+comment1.params=e
+comment1.target=void\ focusLost(java.awt.event.FocusEvent)
+comment2.params=e
+comment2.target=void\ focusGained(java.awt.event.FocusEvent)
+comment3.params=frame
+comment3.target=HomeScreen(javax.swing.JFrame)
+comment3.text=\r\n\ Constructor\ for\ HomeScreen\ builds\ windows\ and\ calls\ the\ init()\ method\ to\r\n\ initialise\ the\ panel.\ Adds\ the\ company\ Logo\ to\ the\ home\ screen\ and\ adds\r\n\ the\ nested\ panels\ below\ it.\r\n\ \r\n\ @param\ frame\ The\ JFrame\ to\ display\ messages\ onto\r\n
+comment4.params=
+comment4.target=void\ buildFlow()
+comment4.text=\r\n\ builds\ a\ flow\ panel\ to\ hold\ the\ grid\r\n
+comment5.params=
+comment5.target=void\ buildGrid()
+comment5.text=\r\n\ builds\ the\ search\ form\ onto\ a\ grid\r\n
+numComments=6

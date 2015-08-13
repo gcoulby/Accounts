@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Initialises\ the\ Splash\ Screen\ Frame\r\n\ adds\ the\ JProgress\ bar\ as\ well\ as\ setting\r\n\ the\ layout\ and\ the\ background\ image\r\n
+comment1.params=
+comment1.target=SplashScreen()
+comment1.text=\r\n\ Constructor\ for\ the\ Splash\ Screen.\r\n\ Runs\ the\ load\ sequence,\ or\ manual\ loads\ the\ methods\r\n\ in\ the\ case\ of\ a\ thrown\ exception\r\n
+comment2.params=
+comment2.target=void\ load()
+comment2.text=\r\n\ This\ is\ the\ method\ that\ calls\ the\ method\r\n\ to\ set\ the\ JProgress\ bar.\ The\ method\ increments\r\n\ to\ 100\ and\ at\ each\ percentage\ increment\ of\ 20\r\n\ certain\ methods\ are\ called\ to\ build\ a\ connection\r\n\ to\ the\ FileHandler.\r\n\ @throws\ InterruptedException\r\n
+comment3.params=
+comment3.target=void\ manualLoad()
+comment3.text=\r\n\ Loads\ the\ startup\ sequence\ from\ FileHandler\r\n\ in\ case\ the\ JProgressBar\ throws\ an\ interruption\r\n\ exception\ \r\n
+comment4.params=i\ str
+comment4.target=void\ setProgress(int,\ java.lang.String)
+comment4.text=\r\n\ Sets\ the\ progress\ of\ the\ JProgressBar\r\n\ @param\ i\ The\ percentage\ to\ set\r\n\ @param\ str\ The\ message\ to\ Display\r\n
+comment5.params=
+comment5.target=void\ closeSplash()
+comment5.text=\r\n\ Closes\ the\ Splash\ Screen\ and\ disposes\ of\ the\ JFrame\r\n
+numComments=6

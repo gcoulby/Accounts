@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createDirectory()
+comment0.text=\r\n\ Create\ a\ new\ Directory\r\n\ @author\ Barber\r\n
+comment1.params=
+comment1.target=void\ createInitialFile()
+comment1.text=\r\n\ Create\ the\ initial\ file\ if\ one\ doesn't\ exist\r\n\ @author\ Barber\r\n
+comment2.params=
+comment2.target=void\ getLastFile()
+comment2.text=\r\n\ Set\ lastFile\ to\ the\ name\ of\ the\ last\ file\ number\ in\ accounts\ folder\r\n\ @author\ Barber\r\n
+comment3.params=
+comment3.target=void\ readFileContents()
+comment3.text=\r\n\ Reads\ the\ file\ line\ by\ line,\ splits\ the\ line\ into\ multiple\ strings\r\n\ and\ adds\ the\ strings\ to\ both\ the\ ArrayList\ of\ Accounts\ and\ the\ JTable\r\n\ Vector.\r\n\ @author\ Barber,\ Coulby\r\n\ @throws\ IOException\r\n
+comment4.params=
+comment4.target=void\ backupFile()
+comment4.text=\r\n\ Creates\ the\ Backup\ File\ by\ incrementing\ the\ backupFileNo\r\n\ @author\ Barber\r\n\ @throws\ FileNotFoundException\r\n\ @throws\ IOException\r\n
+comment5.params=
+comment5.target=void\ makeLink()
+comment5.text=\r\n\ Makes\ a\ link\ to\ the\ PrintWriter\ for\ writing\ to\ the\ file\r\n\ @author\ Barber\r\n
+comment6.params=
+comment6.target=void\ closeLink()
+comment6.text=\r\n\ Close\ the\ link\ to\ the\ PrintWriter\r\n\ @author\ Barber\r\n
+comment7.params=
+comment7.target=void\ writeToFile()
+comment7.text=\r\n\ Write\ the\ list\ of\ Accounts\ to\ the\ Text\ File\r\n\ @author\ Barber\r\n
+numComments=8

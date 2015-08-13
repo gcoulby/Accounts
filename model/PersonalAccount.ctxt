@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PersonalAccount()
+comment0.text=\r\n\ Empty\ constructor\ for\ PersonalAccount\r\n
+comment1.params=firstName\ surname\ credCardType\ credCardNo
+comment1.target=PersonalAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ PersonalAccount\ calls\ the\ super\ class\ of\ Account\r\n\ This\ constructor\ is\ used\ when\ adding\ from\ the\ GUI\r\n\ @param\ firstName\ First\ Name\ as\ a\ String\r\n\ @param\ surname\ Surname\ as\ a\ String\r\n\ @param\ credCardType\ Credit\ Card\ Type\ as\ a\ String\ \r\n\ @param\ credCardNo\ Credit\ Card\ No\ as\ a\ String\r\n
+comment2.params=accountNo\ firstName\ surname\ credCardType\ credCardNo
+comment2.target=PersonalAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ PersonalAccount\ calls\ the\ super\ class\ of\ Account\r\n\ This\ constructor\ is\ used\ when\ adding\ from\ a\ text\ file\ on\ startup\r\n\ @param\ accountNo\ Account\ Number\ as\ a\ String\r\n\ @param\ firstName\ First\ Name\ as\ a\ String\r\n\ @param\ surname\ Surname\ as\ a\ String\r\n\ @param\ credCardType\ Credit\ Card\ Type\ as\ a\ String\ \r\n\ @param\ credCardNo\ Credit\ Card\ No\ as\ a\ String\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCredCardNo()
+comment3.text=\r\n\ Get\ the\ Credit\ Card\ Number\r\n\ @return\ credCardNo\ Credit\ card\ number\ as\ a\ String\r\n
+comment4.params=credCardNo
+comment4.target=void\ setCredCardNo(java.lang.String)
+comment4.text=\r\n\ Set\ the\ credit\ card\ number\r\n\ @param\ credCardNo\ Credit\ Card\ Number\ as\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCredCardType()
+comment5.text=\r\n\ Get\ the\ Credit\ Card\ Type\r\n\ @return\ credCardType\ Credit\ Card\ Type\ as\ a\ String\r\n
+comment6.params=credCardType
+comment6.target=void\ setCredCardType(java.lang.String)
+comment6.text=\r\n\ Set\ the\ credit\ card\ Type\r\n\ @param\ credCardType\ Credit\ Card\ Type\ as\ a\ String\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ generateAccountNumber()
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Name(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ name\ class\ \r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ Changes\ name\r\n\ @param\ name\ to\ be\ set\ as\ a\ string\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ as\ a\ string\r\n\ @return\ name\ as\ a\ string\r\n
+numComments=3

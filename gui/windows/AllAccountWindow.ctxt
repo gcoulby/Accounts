@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AllAccountWindow()
+comment0.text=\r\n\ Constructor\ for\ AllAccountWindow,\ builds\ a\ \r\n\ simple\ JPanel\ which\ nests\ the\ more\ complex\ panels\r\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ buildGrid()
+comment1.text=\r\n\ Displays\ both\ the\ Trade\ Account\ and\ Personal\ Account\r\n\ tables\ in\ a\ GridLayout;\ thus\ ensuring\ equal\ spacing\r\n\ there\ is\ a\ small\ gap\ between\ the\ two\ tables\r\n\ @return\ jp\ The\ GridLayout\ Panel\ which\ displays\ the\ two\ tables\r\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ statusBar()
+comment2.text=\r\n\ Builds\ the\ status\ bar\ for\ both\ containing\ the\ total\ number\r\n\ of\ trade\ accounts,\ personal\ accounts\ and\ total\ number\r\n\ of\ accounts.\r\n\ @return\ jp\ The\ Status\ bar\ panel\ to\ be\ added\ to\ the\ Frame\r\n
+comment3.params=
+comment3.target=void\ updateStatusBar()
+comment3.text=\r\n\ Updates\ the\ status\ bar\ with\ the\ new\ amount\ of\ accounts\r\n\ this\ is\ called\ each\ time\ and\ account\ is\ added\r\n
+numComments=4
